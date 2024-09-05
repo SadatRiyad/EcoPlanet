@@ -823,14 +823,14 @@ body {
   background: url(../images/Nasa.jpg) no-repeat 100% ;
   background-size: cover;
   padding-left: 30px;
-  padding-bottom: 150px;
-  padding-top: 100px;
+  padding-bottom: 140px;
+  padding-top: 80px;
 }
 .solution-image img {
-  margin: 20px;
+  margin: 25px;
   height: 450px;
   width: 250px;
-  border: 2px solid #83b5fa;
+  /* border: 2px solid #83b5fa; */
   border-radius: 10px;
 }
 .footer {
@@ -1000,4 +1000,8 @@ body {
 }
 .g-tag{
   color: rgb(220, 220, 220);
+}
+.sol-text{
+  margin-bottom: 30px !important;
+  color: rgb(220, 220, 220) !important;
 }
